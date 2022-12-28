@@ -1,10 +1,12 @@
+# Diet Plan Automation using Wdio and Appium
+
 ## Documentation
 
 Test Case: https://docs.google.com/spreadsheets/d/11RQnrrl5owLku9N57Giu7rdQoNRWA-wHGQg87XtPxh4/edit?usp=sharing
 
 Testing Video: https://github.com/Whardahk/DietPlan/tree/master/test/video
 
-How to Start
+## How to Start
 
 Install
 
@@ -18,7 +20,7 @@ Install
   npm install
 ```
 
-How to run
+## How to run
 
 1. Connect to your device android or IOS
 2. Setup desired capabilities in file wdio.conf.js
